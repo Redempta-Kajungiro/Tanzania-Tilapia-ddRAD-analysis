@@ -1,5 +1,5 @@
 # Tanzania-Tilapia-ddRAD-analysis
-This repository contains the scripts used to analyze ddRAD-seq data for Tanzanian tilapia populations to  exploring the genetic diversity, population structure, and hybridization in Nile tilapia (Oreochromis niloticus) and Rufiji tilapia (Oreochromis urolepis urolepis) populations using ddRAD-seq SNP data. Analyses include Stacks de novo SNP discovery, PCA, DAPC, FST and hybridization detection using triangulaR.
+This repository contains the scripts used to analyze ddRAD-seq data for Tanzanian tilapia populations to  exploring the genetic diversity, population structure, and hybridization in Nile tilapia (Oreochromis niloticus) and Rufiji tilapia (Oreochromis urolepis urolepis) populations. Analyses include Stacks de novo SNP discovery, PCA, DAPC, FST and hybridization detection using triangulaR.
 
 ## Overview of analyses
 
